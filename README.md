@@ -2,9 +2,12 @@
 
 > A Vue.js project
 
+目前主要实现了一些基础功能，包含：登录，账号新增、编辑、删除，博客的查询、详情、新增（还未加入富文本编辑器和markdown）、编辑、删除，后续还会不断完善及优化
+
 ## 技术栈
 
-前端基于webpack + vue2 + vueRouter + vueResource + element-ui，后端基于node + mongodb + express
+前端基于webpack + vue2 + vueRouter + vueResource + element-ui
+后端基于node + mongodb + express
 
 
 ##整体思路
