@@ -10,7 +10,7 @@
 后端基于node + mongodb + express
 
 
-##整体思路
+## 整体思路
 
 前端页面的搭建及渲染采用webpack+vue2及element-ui，vueResource实现与后端的数据交互，路由跳转也放在前端，采用vueRouter; Node服务端只用来接收请求，查询数据库并用来返回值，数据库用mongoDB，并在Express中通过mongoose操作mongoDB
 
