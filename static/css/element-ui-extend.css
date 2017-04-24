@@ -1,0 +1,96 @@
+.el-row {
+  margin-bottom: 15px; }
+
+.el-button {
+  text-align: center; }
+
+.upload-wrapper {
+  width: 200px;
+  height: 120px;
+  text-align: center;
+  color: #8d8d8d;
+  cursor: pointer;
+  display: inline-block;
+  margin-right: 20px;
+  margin-top: 10px; }
+  .upload-wrapper .el-dragger__cover__interact .btn {
+    margin-top: 35px; }
+  .upload-wrapper .el-upload,
+  .upload-wrapper .el-dragger {
+    width: 100%;
+    height: 100%; }
+  .upload-wrapper .el-dragger .el-icon-upload {
+    font-size: 55px;
+    margin: 18px 0 10px; }
+  .upload-wrapper .el-icon-plus {
+    font-size: 18px;
+    display: block;
+    margin-top: 34px; }
+  .upload-wrapper .el-dragger__cover__progress {
+    width: 150px; }
+  .upload-wrapper .upload-tip {
+    margin-top: 10px; }
+  .upload-wrapper.one-icon .el-draggeer__cover__btns {
+    white-space: nowrap; }
+  .upload-wrapper.one-icon .el-dragger__cover__interact .btn {
+    margin-left: 75px; }
+
+.el-tabs--border-card {
+  border-radius: 5px;
+  overflow: hidden; }
+
+.el-tabs--border-card .el-tabs__content {
+  padding: 20px; }
+
+.el-pager li.active {
+  border-color: #2fa497;
+  background-color: #2fa497; }
+
+.el-pager li:hover {
+  color: #2fa497; }
+
+.select-input .el-input .el-input__icon {
+  width: 25px; }
+
+.select-input .el-input__icon + .el-input__inner {
+  padding-right: 22px; }
+
+.el-pagination {
+  float: right; }
+
+.el-pagination__total {
+  margin: 0 10px 0 0; }
+
+.pagination-info {
+  overflow: hidden;
+  text-align: right;
+  margin-bottom: 0;
+  line-height: 32px;
+  font-size: 13px;
+  color: #475669; }
+
+.el-date-editor.el-input {
+  width: auto; }
+
+.el-pager li.active:hover {
+  color: #fff; }
+
+.el-button {
+  border-radius: 0;
+  padding: 5px 10px 6px;
+  font-size: 13px; }
+
+.el-button--primary,
+.el-button--primary:focus,
+.el-button--primary:hover {
+  background-color: #64c4b9;
+  border-color: #64c4b9; }
+
+.el-loading-mask {
+  background-color: rgba(235, 235, 235, 0.2); }
+
+.el-select-dropdown__item {
+  padding: 3px 10px;
+  height: 27px; }
+
+/*# sourceMappingURL=element-ui-extend.css.map */
